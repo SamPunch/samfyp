@@ -34,7 +34,6 @@ else{
 	ChromePhp::log($email_subject);
 	ChromePhp::log($email_body);
 	ChromePhp::log($headers);
-
 	
 return true; 
 }        
